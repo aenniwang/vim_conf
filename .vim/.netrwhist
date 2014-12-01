@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/david/doc/codeviz/codeviz-1.0/gcc-patches/gcc-patches'
+let g:netrw_dirhist_2='/home/david/doc/codeviz/codeviz-1.0/scripts'
+let g:netrw_dirhist_3='/home/david/doc/codeviz/codeviz-1.0.12/gcc-graph'
+let g:netrw_dirhist_4='/home/david/.vim/c-support'
+let g:netrw_dirhist_5='/home/david/.vim/c-support/scripts'
+let g:netrw_dirhist_6='/home/david/ovs/openvswitch-2.3.0/third-party'
+let g:netrw_dirhist_7='/home/david/ovs/openvswitch-2.3.0'
